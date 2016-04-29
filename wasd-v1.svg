@@ -15,7 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="wasd-v1.svg">
+   sodipodi:docname="wasd-v1.svg"
+   enable-background="new">
   <defs
      id="defs4">
     <symbol
@@ -80,17 +81,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.68091765"
-     inkscape:cx="986.06773"
-     inkscape:cy="258.48495"
+     inkscape:zoom="0.96296298"
+     inkscape:cx="633.13853"
+     inkscape:cy="207.46018"
      inkscape:document-units="px"
-     inkscape:current-layer="layer15"
+     inkscape:current-layer="layer43"
      showgrid="false"
      units="in"
-     inkscape:window-width="1920"
-     inkscape:window-height="1080"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1904"
+     inkscape:window-height="1034"
+     inkscape:window-x="5"
+     inkscape:window-y="35"
      inkscape:window-maximized="0"
      inkscape:snap-global="true"
      inkscape:snap-object-midpoints="true"
@@ -2679,6 +2680,13 @@
            id="path7212-0" />
       </g>
     </g>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1"
+       id="rect15541"
+       width="293.88461"
+       height="490.60098"
+       x="1283.4467"
+       y="28.754396" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4912,39 +4920,15 @@
      style="display:inline">
     <text
        id="text27450"
-       x="152.16556"
-       y="224.04553"
+       x="161.84181"
+       y="238.19058"
        style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       transform="scale(0.99911986,1.0008809)">
       <tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.98679829px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="152.16556"
-         y="224.04553"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="161.84181"
+         y="238.19058"
          id="tspan27452">Q</tspan>
-    </text>
-    <text
-       id="text27454"
-       x="220.09184"
-       y="223.89543"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.98679829px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="220.09184"
-         y="223.89543"
-         id="tspan27456">W</tspan>
-    </text>
-    <text
-       id="text27458"
-       x="286.78833"
-       y="223.89543"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.98679829px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="286.78833"
-         y="223.89543"
-         id="tspan27460">E</tspan>
     </text>
     <text
        id="text27462"
@@ -5031,42 +5015,6 @@
          id="tspan27488">P</tspan>
     </text>
     <text
-       id="text27490"
-       x="169.57121"
-       y="291.336"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.98679829px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="169.57121"
-         y="291.336"
-         id="tspan27492">A</tspan>
-    </text>
-    <text
-       id="text27494"
-       x="236.513"
-       y="291.48611"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.98679829px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="236.513"
-         y="291.48611"
-         id="tspan27496">S</tspan>
-    </text>
-    <text
-       id="text27498"
-       x="303.65985"
-       y="291.336"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.98679829px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="303.65985"
-         y="291.336"
-         id="tspan27500">D</tspan>
-    </text>
-    <text
        id="text27502"
        x="371.13229"
        y="291.336"
@@ -5101,42 +5049,6 @@
          x="506.20856"
          y="291.336"
          id="tspan27512">H</tspan>
-    </text>
-    <text
-       id="text27514"
-       x="574.40771"
-       y="291.336"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.98679829px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="574.40771"
-         y="291.336"
-         id="tspan27516">J</tspan>
-    </text>
-    <text
-       id="text27518"
-       x="641.37323"
-       y="291.336"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.98679829px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="641.37323"
-         y="291.336"
-         id="tspan27520">K</tspan>
-    </text>
-    <text
-       id="text27522"
-       x="708.90704"
-       y="291.336"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.98679829px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="708.90704"
-         y="291.336"
-         id="tspan27524">L</tspan>
     </text>
     <text
        id="text27526"
@@ -5199,27 +5111,15 @@
          id="tspan27544">B</tspan>
     </text>
     <text
-       id="text27546"
-       x="540.12628"
-       y="358.77658"
-       style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.98679829px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="540.12628"
-         y="358.77658"
-         id="tspan27548">N</tspan>
-    </text>
-    <text
        id="text27550"
-       x="607.672"
-       y="358.77658"
+       x="615.0957"
+       y="373.86545"
        style="font-size:14.98679829px;fill:#000000"
-       transform="scale(0.99911983,1.0008809)">
+       transform="scale(0.99911985,1.0008809)">
       <tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.98679829px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="607.672"
-         y="358.77658"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="615.0957"
+         y="373.86545"
          id="tspan27552">M</tspan>
     </text>
     <text
@@ -5881,6 +5781,114 @@
          x="135.84206"
          y="385.15848"
          id="tspan27772">\</tspan>
+    </text>
+    <text
+       id="text27450-9"
+       x="178.68643"
+       y="305.63037"
+       style="font-size:14.98679829px;display:inline;fill:#000000"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="178.68643"
+         y="305.63037"
+         id="tspan27452-9">A</tspan>
+    </text>
+    <text
+       id="text27450-1"
+       x="229.35542"
+       y="238.28052"
+       style="font-size:14.98679829px;display:inline;fill:#000000"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="229.35542"
+         y="238.28052"
+         id="tspan27452-8">W</tspan>
+    </text>
+    <text
+       id="text27450-14"
+       x="246.15501"
+       y="305.63037"
+       style="font-size:14.98679829px;display:inline;fill:#000000"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="246.15501"
+         y="305.63037"
+         id="tspan27452-0">S</tspan>
+    </text>
+    <text
+       id="text27450-5"
+       x="296.86905"
+       y="238.19058"
+       style="font-size:14.98679829px;display:inline;fill:#000000"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="296.86905"
+         y="238.19058"
+         id="tspan27452-95">E</tspan>
+    </text>
+    <text
+       id="text27450-3"
+       x="313.71368"
+       y="305.63037"
+       style="font-size:14.98679829px;display:inline;fill:#000000"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="313.71368"
+         y="305.63037"
+         id="tspan27452-06">D</tspan>
+    </text>
+    <text
+       id="text27550-9"
+       x="548.81952"
+       y="373.86545"
+       style="font-size:14.98679829px;display:inline;fill:#000000"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="548.81952"
+         y="373.86545"
+         id="tspan27552-7">N</tspan>
+    </text>
+    <text
+       id="text27550-1"
+       x="585.64752"
+       y="306.70642"
+       style="font-size:14.98679829px;display:inline;fill:#000000"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="585.64752"
+         y="306.70642"
+         id="tspan27552-1">J</tspan>
+    </text>
+    <text
+       id="text27550-92"
+       x="649.94373"
+       y="306.96518"
+       style="font-size:14.98679829px;display:inline;fill:#000000"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="649.94373"
+         y="306.96518"
+         id="tspan27552-6">K</tspan>
+    </text>
+    <text
+       id="text27550-5"
+       x="718.76227"
+       y="306.96518"
+       style="font-size:14.98679829px;display:inline;fill:#000000"
+       transform="scale(0.99911987,1.0008809)">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="718.76227"
+         y="306.96518"
+         id="tspan27552-5">L</tspan>
     </text>
   </g>
   <g
@@ -24300,4 +24308,9 @@
        style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="path4059" />
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Hide NonExistent Keys"
+     style="display:inline;" />
 </svg>
