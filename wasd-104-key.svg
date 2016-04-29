@@ -80,8 +80,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="765.76395"
-     inkscape:cy="242.42812"
+     inkscape:cx="473.6681"
+     inkscape:cy="302.10111"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -5036,9 +5036,14 @@
        id="path20584-4" />
     <path
        inkscape:connector-curvature="0"
-       d="m 974.15214,166.72402 c -0.30663,0.30577 -0.33245,0.68709 -0.0251,0.96717 0.2557,0.25451 0.63879,0.25451 0.94512,-0.0513 l 3.09316,-3.07779 3.09184,3.07779 c 0.30724,0.30577 0.69284,0.33092 0.94633,0.0513 0.30854,-0.28008 0.28322,-0.6614 -0.0231,-0.96717 l -3.09306,-3.07768 3.09306,-3.07844 c 0.30633,-0.3048 0.33165,-0.68645 0.0231,-0.94106 -0.25349,-0.27965 -0.63909,-0.27965 -0.94633,0.0255 l -3.09184,3.07844 -3.09316,-3.07844 c -0.30633,-0.30512 -0.68942,-0.30512 -0.94512,-0.0255 -0.30723,0.28008 -0.28141,0.63626 0.0251,0.94106 l 3.09275,3.07844 -3.09275,3.07768 z m -1.30269,-11.34495 -8.30701,8.26727 8.30701,8.26748 15.43654,0 0,-16.53475 -15.43654,0 z m -5.98084,8.26727 6.64525,-6.61397 13.11107,0 0,13.22804 -13.11107,0 -6.64525,-6.61407 z"
+       d="m 974.69936,167.47266 c -0.33889,0.33803 -0.36746,0.7596 -0.0276,1.06919 0.28246,0.28126 0.70605,0.28126 1.04464,-0.0563 l 3.41896,-3.40185 3.4174,3.40185 c 0.3395,0.33802 0.76561,0.36568 1.04586,0.0563 0.34104,-0.30959 0.31322,-0.73116 -0.0256,-1.06919 l -3.41876,-3.40174 3.41876,-3.40274 c 0.3387,-0.33681 0.36652,-0.75871 0.0256,-1.04008 -0.28025,-0.30915 -0.70636,-0.30915 -1.04586,0.028 l -3.4174,3.4025 -3.41896,-3.4025 c -0.33859,-0.33737 -0.76218,-0.33737 -1.04464,-0.028 -0.33973,0.30958 -0.31116,0.70327 0.0276,1.04008 l 3.41855,3.40274 -3.41855,3.40174 z m -1.43973,-12.53966 -9.18191,9.13792 9.18191,9.13814 17.06209,0 0,-18.27606 -17.06209,0 z m -6.6107,9.13792 7.34488,-7.31059 14.49182,0 0,14.62129 -14.49182,0 -7.34488,-7.3107 z"
        style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path20612-9" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 59.261543,51.874207 c 0,2.05507 0.6067,3.39468 3.2248,3.39468 0.1682,0.6292 0.1715,0.2194 0.3395,0.8486 -0.647,0.15079 -0.6747,0.16952 -1.5274,0.16952 -0.784,1.48175 -1.1489,3.59568 -1.8671,5.09187 -1.0857,-0.25268 -2.0377,0 -3.2248,0 l 0.1696,2.20651 4.7523,0 c 0.3833,-0.57193 1.6784,-3.71854 1.6974,-4.58254 l 0.6935,0.84581 c 0.084,0.14416 0.1296,0.22122 0.2076,0.3917 l 0.8722,1.43798 c 0.01,0.0145 0.017,0.0592 0.025,0.0731 0.01,0.0137 0.028,0.0537 0.037,0.0671 l 0.6176,0.85512 c 0.016,0.0294 0.046,0.0737 0.06,0.10135 0.013,0.0249 0.04,0.0701 0.051,0.0934 l 1.849,2.92368 c -0.6434,0.73985 -1.3954,2.00316 -1.9697,2.95214 l -1.8671,2.88504 c -0.482,0.78642 -0.8985,1.55238 -1.498,2.24162 -0.1972,0.22667 -1.2013,2.13641 -1.8675,2.88483 -0.2792,0.31368 -0.1614,0.25514 -0.2656,0.74756 0.7157,0.0157 0.6087,0.13196 1.2127,0.16952 l 1.6494,0 0.023,0 c 0.2706,-1.01351 1.1892,-1.94494 1.7644,-2.81804 l 0.7624,-1.12461 c 0.5894,-1.18775 2.2222,-2.99313 2.6815,-3.98599 0.3549,-0.7679 0.9951,-1.40191 1.4082,-2.08782 0.3387,-0.56102 -0.023,-0.28458 0.5118,-0.67629 0,1.35824 -0.2386,5.30753 0.081,6.58625 0.023,0.0911 0.039,0.11259 0.089,0.20302 3.8804,0 7.1747,0.16953 11.0322,0.16953 l 0,-1.54896 c -0.068,-1.24511 -0.5956,-0.99478 -3.9072,-0.99361 -0.9562,3.2e-4 -1.0739,-0.1768 -2.0298,-0.17626 -0.7931,0 -1.5865,0.003 -2.3797,0.003 l 0,-6.10999 c 0,-1.01662 -1.5466,-2.67913 -2.0569,-3.69393 l -0.4165,-0.78513 c -0.022,-0.0291 -0.053,-0.0695 -0.075,-0.0986 l -1.2438,-1.91583 c -0.2376,-0.51061 0.1601,0.24669 -0.077,-0.22967 l -0.4713,-0.78149 c -0.01,-0.0127 -0.032,-0.0501 -0.042,-0.0625 -0.011,-0.0146 -0.045,-0.0488 -0.058,-0.064 -0.015,-0.0179 -0.059,-0.0498 -0.075,-0.0688 -0.2322,-0.26702 -0.063,0.005 -0.2345,-0.27334 l -0.6818,-1.36188 4.0713,-0.20719 c 0.2934,1.15671 1.7548,2.68758 2.3733,3.77665 0.8107,1.42738 1.4956,0.67115 2.5511,0.1645 0,-0.33039 -0.01,-0.55278 -0.1465,-0.85159 l -3.3199,-5.01631 c -0.019,-0.0324 -0.045,-0.0746 -0.062,-0.10767 -0.043,-0.0795 -0.1604,-0.38111 -0.205,-0.47422 -2.1998,0 -4.5421,0.33948 -6.7892,0.33948 -0.3408,0.82494 0.1756,-0.071 -0.1283,0.57065 -0.3787,0.79968 -0.2583,-0.33456 -0.3808,0.78726 -0.2676,-0.19563 -0.7727,-0.73846 -0.6244,-1.15157 0.1002,-0.27912 -0.098,-0.0792 0.2849,-0.20634 0,-1.55089 0.098,-2.90506 -1.2605,-3.6614 -2.1413,-1.19224 -4.3407,0.5394 -4.3407,2.13395"
+       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path20648-5" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -5047,340 +5052,340 @@
      style="display:inline">
     <text
        id="text9571"
-       x="158.85045"
-       y="239.87639"
+       x="161.90744"
+       y="235.944"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="158.85045"
-         y="239.87639"
+         x="161.90744"
+         y="235.944"
          id="tspan9573">Q</tspan>
     </text>
     <text
        id="text9575"
-       x="224.3503"
-       y="240.20247"
+       x="228.08934"
+       y="237.4315"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="224.3503"
-         y="240.20247"
+         x="228.08934"
+         y="237.4315"
          id="tspan9577">W</tspan>
     </text>
     <text
        id="text9579"
-       x="295.03848"
-       y="240.20247"
+       x="298.3588"
+       y="237.3416"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="295.03848"
-         y="240.20247"
+         x="298.3588"
+         y="237.3416"
          id="tspan9581">E</tspan>
     </text>
     <text
        id="text9583"
-       x="361.37747"
-       y="240.20247"
+       x="365.27954"
+       y="237.48401"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="361.37747"
-         y="240.20247"
+         x="365.27954"
+         y="237.48401"
          id="tspan9585">R</tspan>
     </text>
     <text
        id="text9587"
-       x="431.10046"
-       y="240.20247"
+       x="433.98276"
+       y="237.3416"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="431.10046"
-         y="240.20247"
+         x="433.98276"
+         y="237.3416"
          id="tspan9589">T</tspan>
     </text>
     <text
        id="text9591"
-       x="497.98288"
-       y="240.20247"
+       x="501.26715"
+       y="237.3416"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="497.98288"
-         y="240.20247"
+         x="501.26715"
+         y="237.3416"
          id="tspan9593">Y</tspan>
     </text>
     <text
        id="text9595"
-       x="564.80817"
-       y="240.11256"
+       x="567.89917"
+       y="237.30026"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="564.80817"
-         y="240.11256"
+         x="567.89917"
+         y="237.30026"
          id="tspan9597">U</tspan>
     </text>
     <text
        id="text9599"
-       x="637.85345"
-       y="240.20247"
+       x="638.6424"
+       y="237.4315"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="637.85345"
-         y="240.20247"
+         x="638.6424"
+         y="237.4315"
          id="tspan9601">I</tspan>
     </text>
     <text
        id="text9603"
-       x="699.13928"
-       y="240.20247"
+       x="702.05804"
+       y="237.3416"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="699.13928"
-         y="240.20247"
+         x="702.05804"
+         y="237.3416"
          id="tspan9605">O</tspan>
     </text>
     <text
        id="text9607"
-       x="767.83148"
-       y="240.20247"
+       x="770.78131"
+       y="237.48401"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="767.83148"
-         y="240.20247"
+         x="770.78131"
+         y="237.48401"
          id="tspan9609">P</tspan>
     </text>
     <text
        id="text9611"
-       x="177.12111"
-       y="307.64346"
+       x="179.87067"
+       y="304.7818"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="177.12111"
-         y="307.64346"
+         x="179.87067"
+         y="304.7818"
          id="tspan9613">A</tspan>
     </text>
     <text
        id="text9615"
-       x="244.70799"
-       y="307.64346"
+       x="248.44131"
+       y="304.7818"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="244.70799"
-         y="307.64346"
+         x="248.44131"
+         y="304.7818"
          id="tspan9617">S</tspan>
     </text>
     <text
        id="text9619"
-       x="311.32547"
-       y="307.64346"
+       x="314.11832"
+       y="304.7818"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="311.32547"
-         y="307.64346"
+         x="314.11832"
+         y="304.7818"
          id="tspan9621">D</tspan>
     </text>
     <text
        id="text9623"
-       x="380.15964"
-       y="307.64346"
+       x="383.03278"
+       y="304.7818"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="380.15964"
-         y="307.64346"
+         x="383.03278"
+         y="304.7818"
          id="tspan9625">F</tspan>
     </text>
     <text
        id="text9627"
-       x="445.94736"
-       y="307.64346"
+       x="449.91727"
+       y="304.79056"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="445.94736"
-         y="307.64346"
+         x="449.91727"
+         y="304.79056"
          id="tspan9629">G</tspan>
     </text>
     <text
        id="text9631"
-       x="514.10565"
-       y="307.64346"
+       x="517.0354"
+       y="304.7818"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="514.10565"
-         y="307.64346"
+         x="517.0354"
+         y="304.7818"
          id="tspan9633">H</tspan>
     </text>
     <text
        id="text9635"
-       x="584.79016"
-       y="307.55356"
+       x="587.07867"
+       y="304.65054"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="584.79016"
-         y="307.55356"
+         x="587.07867"
+         y="304.65054"
          id="tspan9637">J</tspan>
     </text>
     <text
        id="text9639"
-       x="649.33112"
-       y="307.64346"
+       x="652.26562"
+       y="304.7818"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="649.33112"
-         y="307.64346"
+         x="652.26562"
+         y="304.7818"
          id="tspan9641">K</tspan>
     </text>
     <text
        id="text9643"
-       x="718.50146"
-       y="307.64346"
+       x="720.69757"
+       y="304.7818"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="718.50146"
-         y="307.64346"
+         x="720.69757"
+         y="304.7818"
          id="tspan9645">L</tspan>
     </text>
     <text
        id="text9647"
-       x="211.71747"
-       y="375.0845"
+       x="214.46611"
+       y="371.6825"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="211.71747"
-         y="375.0845"
+         x="214.46611"
+         y="371.6825"
          id="tspan9649">Z</tspan>
     </text>
     <text
        id="text9651"
-       x="278.53253"
-       y="375.0845"
+       x="281.52301"
+       y="371.6825"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="278.53253"
-         y="375.0845"
+         x="281.52301"
+         y="371.6825"
          id="tspan9653">X</tspan>
     </text>
     <text
        id="text9655"
-       x="345.28967"
-       y="375.0845"
+       x="348.79379"
+       y="371.7724"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="345.28967"
-         y="375.0845"
+         x="348.79379"
+         y="371.7724"
          id="tspan9657">C</tspan>
     </text>
     <text
        id="text9659"
-       x="413.61505"
-       y="375.0845"
+       x="416.47324"
+       y="371.6825"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="413.61505"
-         y="375.0845"
+         x="416.47324"
+         y="371.6825"
          id="tspan9661">V</tspan>
     </text>
     <text
        id="text9663"
-       x="480.96362"
-       y="375.0845"
+       x="483.62766"
+       y="371.7724"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="480.96362"
-         y="375.0845"
+         x="483.62766"
+         y="371.7724"
          id="tspan9665">B</tspan>
     </text>
     <text
        id="text9667"
-       x="548.00946"
-       y="375.0845"
+       x="550.75586"
+       y="371.6825"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="548.00946"
-         y="375.0845"
+         x="550.75586"
+         y="371.6825"
          id="tspan9669">N</tspan>
     </text>
     <text
        id="text9671"
-       x="614.11304"
-       y="375.0845"
+       x="616.9491"
+       y="371.6825"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="614.11304"
-         y="375.0845"
+         x="616.9491"
+         y="371.6825"
          id="tspan9673">M</tspan>
     </text>
     <text
@@ -5505,132 +5510,132 @@
     </text>
     <text
        id="text9715"
-       x="131.58479"
-       y="160.02872"
+       x="132.45828"
+       y="157.39906"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="131.58479"
-         y="160.02872"
+         x="132.45828"
+         y="157.39906"
          id="tspan9717">!</tspan>
     </text>
     <text
        id="text9719"
-       x="193.71471"
-       y="159.96715"
+       x="194.18901"
+       y="157.62657"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="193.71471"
-         y="159.96715"
+         x="194.18901"
+         y="157.62657"
          id="tspan9721">@</tspan>
     </text>
     <text
        id="text9723"
-       x="265.09641"
-       y="159.8174"
+       x="264.16843"
+       y="157.39906"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="265.09641"
-         y="159.8174"
+         x="264.16843"
+         y="157.39906"
          id="tspan9725">#</tspan>
     </text>
     <text
        id="text9727"
-       x="333.00015"
-       y="159.96715"
+       x="332.52289"
+       y="158.85156"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="333.00015"
-         y="159.96715"
+         x="332.52289"
+         y="158.85156"
          id="tspan9729">$</tspan>
     </text>
     <text
        id="text9731"
-       x="397.2496"
-       y="159.8174"
+       x="397.72739"
+       y="157.66158"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="397.2496"
-         y="159.8174"
+         x="397.72739"
+         y="157.66158"
          id="tspan9733">%</tspan>
     </text>
     <text
        id="text9735"
-       x="468.50491"
-       y="159.8174"
+       x="467.5318"
+       y="157.39906"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="468.50491"
-         y="159.8174"
+         x="467.5318"
+         y="157.39906"
          id="tspan9737">^</tspan>
     </text>
     <text
        id="text9739"
-       x="534.19922"
-       y="159.96715"
+       x="534.005"
+       y="159.65982"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="534.19922"
-         y="159.96715"
+         x="534.005"
+         y="159.65982"
          id="tspan9741">&amp;</tspan>
     </text>
     <text
        id="text9743"
-       x="604.2334"
-       y="159.8174"
+       x="603.45325"
+       y="158.4178"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="604.2334"
-         y="159.8174"
+         x="603.45325"
+         y="158.4178"
          id="tspan9745">*</tspan>
     </text>
     <text
        id="text9747"
-       x="672.24762"
-       y="159.8174"
+       x="671.78149"
+       y="158.97408"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="672.24762"
-         y="159.8174"
+         x="671.78149"
+         y="158.97408"
          id="tspan9749">(</tspan>
     </text>
     <text
        id="text9751"
-       x="739.78137"
-       y="159.8174"
+       x="740.58966"
+       y="158.69179"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="739.78137"
-         y="159.8174"
+         x="740.58966"
+         y="158.69179"
          id="tspan9753">)</tspan>
     </text>
     <text
@@ -5647,490 +5652,426 @@
     </text>
     <text
        id="text9759"
-       x="840.74207"
-       y="227.21347"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       x="841.29199"
+       y="223.61588"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="840.74207"
-         y="227.21347"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="841.29199"
+         y="223.61588"
          id="tspan9761">{</tspan>
     </text>
     <text
        id="text9763"
-       x="908.30811"
-       y="227.21347"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       x="909.37518"
+       y="224.21687"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="908.30811"
-         y="227.21347"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="909.37518"
+         y="224.21687"
          id="tspan9765">}</tspan>
     </text>
     <text
        id="text9767"
-       x="841.26849"
-       y="249.63435"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       x="840.93201"
+       y="247.15883"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="841.26849"
-         y="249.63435"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="840.93201"
+         y="247.15883"
          id="tspan9769">[</tspan>
     </text>
     <text
        id="text9771"
-       x="908.79919"
-       y="249.63435"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       x="909.87024"
+       y="247.15883"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="908.79919"
-         y="249.63435"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="909.87024"
+         y="247.15883"
          id="tspan9773">]</tspan>
     </text>
     <text
        id="text9775"
-       x="756.90082"
-       y="384.51639"
+       x="757.42993"
+       y="379.03244"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="756.90082"
-         y="384.51639"
+         x="757.42993"
+         y="379.03244"
          id="tspan9777">.</tspan>
     </text>
     <text
        id="text9779"
-       x="824.43134"
-       y="384.51639"
+       x="823.96124"
+       y="381.31952"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="824.43134"
-         y="384.51639"
+         x="823.96124"
+         y="381.31952"
          id="tspan9781">/</tspan>
     </text>
     <text
        id="text9783"
-       x="790.09686"
-       y="317.07538"
+       x="791.24701"
+       y="314.59155"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="790.09686"
-         y="317.07538"
+         x="791.24701"
+         y="314.59155"
          id="tspan9785">;</tspan>
     </text>
     <text
        id="text9787"
        x="858.45947"
-       y="317.07538"
+       y="321.0719"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="858.45947"
-         y="317.07538"
+         y="321.0719"
          id="tspan9789">'</tspan>
     </text>
     <text
        id="text9791"
        x="754.224"
        y="362.09549"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.49999986px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr;text-anchor:start;fill:#000000;"
        transform="scale(0.99912618,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.49999986px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
          x="754.224"
          y="362.09549"
          id="tspan9793">&gt;</tspan>
     </text>
     <text
        id="text9795"
-       x="821.99811"
-       y="362.09549"
+       x="823.84747"
+       y="359.3598"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="821.99811"
-         y="362.09549"
+         x="823.84747"
+         y="359.3598"
          id="tspan9797">?</tspan>
     </text>
     <text
        id="text9799"
-       x="790.09686"
-       y="294.65448"
+       x="791.08075"
+       y="291.10785"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="790.09686"
-         y="294.65448"
+         x="791.08075"
+         y="291.10785"
          id="tspan9801">:</tspan>
     </text>
     <text
        id="text9803"
-       x="856.39337"
-       y="294.65448"
+       x="857.36151"
+       y="295.36035"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="856.39337"
-         y="294.65448"
+         x="857.36151"
+         y="295.36035"
          id="tspan9805">&quot;</tspan>
     </text>
     <text
        id="text9807"
-       x="689.36871"
-       y="384.51639"
+       x="690.36951"
+       y="378.522"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="689.36871"
-         y="384.51639"
+         x="690.36951"
+         y="378.522"
          id="tspan9809">,</tspan>
     </text>
     <text
        id="text9811"
        x="686.69196"
        y="362.09549"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.49999986px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr;text-anchor:start;fill:#000000;"
        transform="scale(0.99912618,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.49999986px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
          x="686.69196"
          y="362.09549"
          id="tspan9813">&lt;</tspan>
     </text>
     <text
        id="text9815"
-       x="993.21649"
-       y="249.63435"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       x="993.17041"
+       y="246.1136"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="993.21649"
-         y="249.63435"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="993.17041"
+         y="246.1136"
          id="tspan9817">\</tspan>
     </text>
     <text
        id="text9819"
-       x="993.19916"
-       y="227.21347"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       x="993.89795"
+       y="225.41209"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="993.19916"
-         y="227.21347"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="993.89795"
+         y="225.41209"
          id="tspan9821">|</tspan>
     </text>
     <text
        id="text9823"
-       x="807.01422"
-       y="182.19333"
+       x="807.70038"
+       y="183.10204"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="807.01422"
-         y="182.19333"
+         x="807.70038"
+         y="183.10204"
          id="tspan9825">-</tspan>
     </text>
     <text
        id="text9827"
-       x="872.35016"
-       y="182.19333"
+       x="872.79108"
+       y="183.33229"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="872.35016"
-         y="182.19333"
+         x="872.79108"
+         y="183.33229"
          id="tspan9829">=</tspan>
     </text>
     <text
        id="text9831"
-       x="805.06317"
-       y="159.77245"
+       x="805.88037"
+       y="149.0088"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="805.06317"
-         y="159.77245"
+         x="805.88037"
+         y="149.0088"
          id="tspan9833">_</tspan>
     </text>
     <text
        id="text9835"
-       x="872.35016"
-       y="159.77245"
+       x="872.79108"
+       y="156.61481"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="872.35016"
-         y="159.77245"
+         x="872.79108"
+         y="156.61481"
          id="tspan9837">+</tspan>
     </text>
     <text
        id="text9839"
-       x="64.144783"
-       y="182.19333"
+       x="64.679298"
+       y="186.45555"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="64.144783"
-         y="182.19333"
+         x="64.679298"
+         y="186.45555"
          id="tspan9841">`</tspan>
     </text>
     <text
        id="text9843"
-       x="61.946709"
-       y="159.77245"
+       x="62.362549"
+       y="157.67131"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="61.946709"
-         y="159.77245"
+         x="62.362549"
+         y="157.67131"
          id="tspan9845">~</tspan>
     </text>
     <text
        id="text9847"
-       x="129.20264"
-       y="182.16324"
+       x="128.67828"
+       y="182.65254"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="129.20264"
-         y="182.16324"
+         x="128.67828"
+         y="182.65254"
          id="tspan9849">1</tspan>
     </text>
     <text
        id="text9851"
-       x="197.72758"
-       y="182.16324"
+       x="197.61026"
+       y="182.58353"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="197.72758"
-         y="182.16324"
+         x="197.61026"
+         y="182.58353"
          id="tspan9853">2</tspan>
     </text>
     <text
        id="text9855"
-       x="265.09641"
-       y="182.0135"
+       x="265.12344"
+       y="182.31227"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="265.09641"
-         y="182.0135"
+         x="265.12344"
+         y="182.31227"
          id="tspan9857">3</tspan>
     </text>
     <text
        id="text9859"
-       x="333.00015"
-       y="182.16324"
+       x="332.5054"
+       y="182.04979"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="333.00015"
-         y="182.16324"
+         x="332.5054"
+         y="182.04979"
          id="tspan9861">4</tspan>
     </text>
     <text
        id="text9863"
-       x="400.1608"
-       y="182.0135"
+       x="400.18741"
+       y="182.04977"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="400.1608"
-         y="182.0135"
+         x="400.18741"
+         y="182.04977"
          id="tspan9865">5</tspan>
     </text>
     <text
        id="text9867"
-       x="467.74442"
-       y="182.0135"
+       x="467.42807"
+       y="182.10228"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="467.74442"
-         y="182.0135"
+         x="467.42807"
+         y="182.10228"
          id="tspan9869">6</tspan>
     </text>
     <text
        id="text9871"
-       x="535.16809"
-       y="182.16324"
+       x="535.17883"
+       y="182.04977"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="535.16809"
-         y="182.16324"
+         x="535.17883"
+         y="182.04977"
          id="tspan9873">7</tspan>
     </text>
     <text
        id="text9875"
-       x="602.77344"
-       y="182.0135"
+       x="602.6933"
+       y="182.31227"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="602.77344"
-         y="182.0135"
+         x="602.6933"
+         y="182.31227"
          id="tspan9877">8</tspan>
     </text>
     <text
        id="text9879"
-       x="670.29657"
-       y="182.0135"
+       x="670.34778"
+       y="182.31227"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="670.29657"
-         y="182.0135"
+         x="670.34778"
+         y="182.31227"
          id="tspan9881">9</tspan>
     </text>
     <text
        id="text9883"
-       x="737.83032"
-       y="182.0135"
+       x="737.67462"
+       y="182.32103"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       transform="scale(0.99912618,1.0008746)"
+       transform="scale(0.99912617,1.0008746)"
        sodipodi:linespacing="125%">
       <tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="737.83032"
-         y="182.0135"
+         x="737.67462"
+         y="182.32103"
          id="tspan9885">0</tspan>
-    </text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer20"
-     inkscape:label="Mods - Media Keys"
-     style="display:none">
-    <path
-       inkscape:connector-curvature="0"
-       d="m 1113.1906,250.08728 -3.5152,-3.52138 3.5152,-3.521 0,7.04238 z m -3.7847,0 -3.5153,-3.52138 3.5153,-3.521 0,7.04238 z m -3.6608,0 -0.708,0 0,-7.04238 0.708,0 0,7.04238 z"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path6121" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 1180.6676,250.08728 -0.7076,0 0,-7.04238 0.7076,0 0,7.04238 z m -0.8535,-3.52138 -3.5149,3.52138 0,-7.04238 3.5149,3.521 z m -3.7844,0 -3.5153,3.52138 0,-7.04238 3.5153,3.521 z"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path6123" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 1110.3832,182.58728 -1.4038,0 0,-7.03138 1.4038,0 0,7.03138 z"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path6125" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 1113.1906,182.58728 -1.4035,0 0,-7.03138 1.4035,0 0,7.03138 z"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path6127" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 1106.8606,178.71728 -3.5152,3.52125 0,-7.04263 3.5152,3.52138 z"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path6129" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 1180.6676,182.58728 -6.3231,0 0,-6.334 6.3231,0 0,6.334 z"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path6131" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 1241.2367,182.58728 -2.5714,-2.385 -1.6399,0 0,-3.21776 1.6399,0 2.5714,-2.385 0,7.98776 z m 4.0518,-4.33213 0,-2.18375 0.6685,0 0,2.18375 2.18,0 0,0.67688 -2.18,0 0,2.18362 -0.6685,0 0,-2.18362 -2.18,0 0,-0.67688 2.18,0 z"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path6133" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 1248.137,80.266775 c 0,0.6895 -0.2431,1.279125 -0.7311,1.767375 -0.4876,0.489 -1.076,0.7325 -1.7644,0.7325 -0.6883,0 -1.2769,-0.2435 -1.7643,-0.7325 -0.4882,-0.48825 -0.7311,-1.077875 -0.7311,-1.767375 0,-0.6895 0.2429,-1.279125 0.7311,-1.767375 0.4874,-0.489 1.076,-0.732375 1.7643,-0.732375 0.6884,0 1.2768,0.243375 1.7644,0.732375 0.488,0.48825 0.7311,1.077875 0.7311,1.767375 z m -0.3994,0 c 0,-0.580375 -0.2048,-1.074625 -0.6133,-1.485375 -0.4099,-0.40925 -0.9037,-0.614375 -1.4828,-0.614375 -0.5178,0 -0.9723,0.168 -1.3646,0.503125 l 2.9557,2.95975 c 0.3366,-0.39225 0.505,-0.8465 0.505,-1.363125 z m -0.8004,1.647625 -2.9426,-2.947625 c -0.2996,0.38125 -0.4492,0.815 -0.4492,1.3 0,0.580125 0.2048,1.07475 0.6148,1.485375 0.4091,0.408875 0.9033,0.614375 1.4824,0.614375 0.4831,0 0.9151,-0.150875 1.2946,-0.452125 z m -5.6817,2.346125 -2.5715,-2.385 -1.6399,0 0,-3.21775 1.6399,0 2.5715,-2.385 0,7.98775 z"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path6135" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 1241.2367,250.08728 -2.5714,-2.385 -1.6399,0 0,-3.21776 1.6399,0 2.5714,-2.385 0,7.98776 z m 6.9003,-4.33213 0,0.67688 c -3.5937,0 -0.9183,0 -5.0285,0 l 0,-0.67688 c 4.1102,0 1.4348,0 5.0285,0"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path6137" />
-    <text
-       id="text6139"
-       x="929.86859"
-       y="452.1918"
-       style="font-size:14.9868927px;fill:#000000"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="929.86859 937.49945"
-         y="452.1918"
-         sodipodi:role="line"
-         id="tspan6141">Fn</tspan>
     </text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer19"
      inkscape:label="Mods - Symbols"
-     style="display:none">
+     style="display:inline">
     <text
        id="text5864"
        x="1383.876"
@@ -6168,19 +6109,6 @@
          id="tspan5874">-</tspan>
     </text>
     <text
-       id="text5876"
-       x="56.478592"
-       y="70.236473"
-       style="font-size:14.9868927px;fill:#000000"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="56.478592 64.808807 71.053345"
-         y="70.236473"
-         sodipodi:role="line"
-         id="tspan5878">Esc</tspan>
-    </text>
-    <text
        id="text5880"
        x="1515.8661"
        y="272.28064"
@@ -6214,41 +6142,6 @@
        id="path5890" />
     <path
        inkscape:connector-curvature="0"
-       d="m 960.70806,301.46865 4.51698,-4.51275 0,3.61275 11.72972,0 0,-8.12512 1.79686,0 0,9.92512 -13.52658,0 0,3.62475 -4.51698,-4.52475 z"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path5892" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 113.06626,375.75615 -7.21251,0 0,-10.35 -4.11792,0 7.72399,-7.72512 7.72435,7.72512 -4.11791,0 0,10.35 z m -3.60644,-16.36687 -4.81657,4.81675 2.40853,0 0,10.35 4.81644,0 0,-10.35 2.40842,0 -4.81682,-4.81675 z"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path5894" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 88.928618,302.23115 0,-4.325 -4.093212,0 7.707387,-7.72512 7.715877,7.72512 -4.092842,0 0,4.325 -7.23721,0 z m 3.614175,-10.36237 -4.828799,4.83725 2.412278,0 0,4.325 4.841653,0 0,-4.325 2.40841,0 -4.833542,-4.83725 z m -3.614175,16.38737 0,-4.19987 7.23721,0 0,4.19987 -7.23721,0 z m 1.197654,-1.20012 4.841653,0 0,-1.8 -4.841653,0 0,1.8 z"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path5896" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 969.17138,164.21903 4.51685,-4.52525 0,3.62525 13.5267,0 0,1.8 -13.5267,0 0,3.62475 -4.51685,-4.52475 z"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path5898" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 90.236579,239.85228 -1.437484,0 0,-7.21988 1.437484,0 0,7.21988 z m -2.402421,-3.61988 -3.606688,3.61988 0,-2.89988 -8.425506,0 0,-1.44 8.425506,0 0,-2.88 3.606688,3.6 z m -12.032194,-3.62012 0,-7.21988 1.437484,0 0,7.21988 -1.437484,0 z m 2.402421,-3.6 3.607187,-3.61988 0,2.89988 8.425007,0 0,1.44 -8.425007,0 0,2.90012 -3.607187,-3.62012 z"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path5900" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 956.51128,375.75653 -7.2125,0 0,-10.35 -4.11792,0 7.72399,-7.72513 7.72435,7.72513 -4.11792,0 0,10.35 z m -3.60643,-16.36688 -4.81646,4.81675 2.40842,0 0,10.35 4.81644,0 0,-10.35 2.40854,0 -4.81694,-4.81675 z"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path5902" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 913.36878,434.56515 c 1.00386,-0.41137 9.83205,-0.36312 11.17794,-0.1275 l 0.59533,5.86238 c 0.16022,0.7845 0.53095,0.24587 0.23409,1.64687 l -12.001,-0.0914 -0.006,-7.29038 z m 16.16284,3.1085 c -0.26815,0.162 -0.37385,0.151 -0.69366,0.343 -0.0127,1.22713 1.29424,2.036 1.67133,3.1695 -0.27727,0.66513 -0.036,0.17325 -0.648,0.75975 -0.94721,-0.861 -1.36922,-2.098 -2.10357,-3.212 -1.01834,0.0921 -0.6823,0.65513 -1.84677,0.75188 -0.21324,-1.82588 -0.65535,-4.1535 -0.52308,-5.93538 0.81108,0.13038 4.60881,3.26338 4.69229,3.39838 -0.11592,0.42762 0.3983,0.15262 -0.54854,0.72487 z m -8.0876,-4.85112 c -1.56164,-0.0276 -4.42501,0.13925 -5.61093,-0.13213 l 0.0149,-0.72175 c 1.3303,-0.3345 5.49564,-0.13675 7.14038,-0.14287 -0.004,1.25225 0.0778,1.0255 -1.5443,0.99675 z m -7.82518,-6.10338 11.87834,0.0621 -0.0439,3.53262 -11.88706,-0.0606 0.0527,-3.53413 z m 16.0886,11.74225 c 0.85737,-0.65125 1.61817,-0.574 1.55703,-1.70475 -1.61618,-1.07925 -2.98541,-2.22412 -4.53146,-3.382 l -0.0979,-8.16487 -14.2588,-0.0178 0.0594,18.05312 14.25032,-0.0443 0.10219,-3.21062 c 1.18068,-0.22563 1.13015,0.79725 2.63838,2.9665 0.4864,-0.147 1.37809,-0.7965 1.87186,-1.1395 0.0933,-1.1395 -0.8776,-2.47675 -1.59097,-3.35588 z m -13.89382,-1.95625 c 0.81383,0.17213 6.40679,0.36213 7.20939,-0.135 l -0.01,-0.49962 c -0.95569,-0.54463 -5.89069,-0.40713 -7.17993,-0.10388 l -0.0199,0.7385 z m 10e-4,-7.60925 c 0.80797,0.17575 6.40293,0.36138 7.20439,-0.128 l -0.005,-0.50587 c -0.78088,-0.49288 -6.38944,-0.32463 -7.18454,-0.11525 l -0.0153,0.74912 z m 0.21326,11.02 c 0.38133,0.79013 0.11542,0.55625 1.40965,0.53713 1.19691,-0.0176 4.77115,0.24487 5.58511,-0.28163 l -0.022,-0.49887 c -0.49202,-0.28038 -5.16984,-0.41038 -6.22324,-0.25088 -1.13926,0.17288 -0.26566,-0.0305 -0.74956,0.49425"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="path5904" />
-    <path
-       inkscape:connector-curvature="0"
        d="m 1511.356,402.71903 4.5168,-4.51275 0,3.61275 11.7299,0 0,-8.12525 1.7968,0 0,9.92525 -13.5267,0 0,3.62475 -4.5168,-4.52475 z"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path5906" />
@@ -6277,590 +6170,17 @@
        d="m 1322.2115,161.38678 -8.5171,0 c -0.4397,0 -0.8401,0.18075 -1.1308,0.472 -0.2907,0.29087 -0.4712,0.692 -0.4712,1.13275 l 0,7.351 c 0,0.44075 0.1805,0.84187 0.4712,1.13312 0.2907,0.29088 0.6911,0.47163 1.1308,0.47163 l 8.5171,0 c 0.4396,0 0.8404,-0.18075 1.1307,-0.47163 0.2908,-0.29125 0.4712,-0.69237 0.4712,-1.13312 l 0,-7.351 c 0,-0.44075 -0.1804,-0.84188 -0.4712,-1.13275 -0.2903,-0.29125 -0.6911,-0.472 -1.1307,-0.472 z m -8.5171,-0.90213 8.5171,0 c 0.6887,0 1.3143,0.28175 1.7678,0.736 0.453,0.45425 0.7347,1.081 0.7347,1.77087 l 0,7.351 c 0,0.68988 -0.2817,1.31663 -0.7347,1.771 -0.4535,0.45425 -1.0791,0.73588 -1.7678,0.73588 l -8.5171,0 c -0.6887,0 -1.314,-0.28162 -1.7678,-0.73588 -0.4532,-0.45437 -0.7347,-1.08112 -0.7347,-1.771 l 0,-7.351 c 0,-0.68987 0.2815,-1.31662 0.7347,-1.77087 0.4538,-0.45425 1.0791,-0.736 1.7678,-0.736 z m 7.7314,0.10275 c -0.035,-0.41738 -0.1422,-0.8135 -0.3098,-1.17525 -0.1727,-0.371 -0.41,-0.708 -0.6983,-0.9975 -0.3236,-0.3235 -0.7067,-0.58325 -1.1304,-0.759 -0.4085,-0.16963 -0.8596,-0.26325 -1.3343,-0.26325 -0.475,0 -0.926,0.0936 -1.3345,0.26325 -0.4238,0.17575 -0.8068,0.4355 -1.1301,0.759 -0.2887,0.2895 -0.526,0.6265 -0.6978,0.9975 -0.1681,0.36175 -0.276,0.75787 -0.3106,1.17525 l -0.035,0.41425 -0.4138,0 -0.9034,0 -0.4815,0 0.033,-0.48087 c 0.044,-0.64701 0.2044,-1.26351 0.4615,-1.82901 0.2654,-0.584 0.6307,-1.10874 1.074,-1.553 0.4856,-0.48612 1.0682,-0.87912 1.718,-1.14912 0.6246,-0.259 1.3073,-0.40188 2.0202,-0.40188 0.7132,0 1.3959,0.14288 2.0202,0.40188 0.6497,0.27 1.2323,0.663 1.718,1.14912 0.4432,0.44426 0.8086,0.96901 1.0738,1.553 0.2572,0.5655 0.4178,1.182 0.4616,1.82901 l 0.033,0.48087 -0.481,0 -0.9034,0 -0.4142,0 -0.035,-0.41425 z m -5.7163,4.73137 1.9179,0 0,5.55875 1.5884,0 0,-8.07125 -1.3048,0 c -0.034,0.60275 -0.4425,1.39813 -1.9744,1.39813 l -0.2271,0 0,1.11437 z"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path5916" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 1168.4158,62.26065 c -0.035,-0.417375 -0.1422,-0.8135 -0.3102,-1.17525 -0.1722,-0.371 -0.4096,-0.708 -0.6982,-0.9975 -0.3234,-0.3235 -0.7064,-0.58325 -1.1302,-0.759 -0.4085,-0.16975 -0.8594,-0.26325 -1.3345,-0.26325 -0.4747,0 -0.9257,0.0935 -1.3342,0.26325 -0.4237,0.17575 -0.8069,0.4355 -1.1305,0.759 -0.2883,0.2895 -0.5256,0.6265 -0.6976,0.9975 -0.1679,0.36175 -0.2758,0.757875 -0.3104,1.17525 l -0.035,0.41425 -0.4143,0 -0.9033,0 -0.481,0 0.033,-0.480875 c 0.044,-0.647 0.2046,-1.2635 0.4617,-1.829 0.2653,-0.584 0.6307,-1.10875 1.0739,-1.553 0.4857,-0.48625 1.0682,-0.879125 1.718,-1.149125 0.6243,-0.259 1.3069,-0.401875 2.02,-0.401875 0.7131,0 1.3957,0.142875 2.0204,0.401875 0.6498,0.27 1.2324,0.662875 1.718,1.149125 0.4432,0.44425 0.8086,0.969 1.0739,1.553 0.257,0.5655 0.4176,1.182 0.4616,1.829 l 0.033,0.480875 -0.4814,0 -0.9034,0 -0.4139,0 -0.035,-0.41425 z m -7.7315,-0.10275 8.517,0 c 0.6887,0 1.3141,0.28175 1.7679,0.736 0.4531,0.45425 0.7347,1.081 0.7347,1.770875 l 0,7.351 c 0,0.689875 -0.2816,1.316625 -0.7347,1.770875 -0.4538,0.45425 -1.0792,0.736 -1.7679,0.736 l -8.517,0 c -0.6886,0 -1.3144,-0.28175 -1.7679,-0.736 -0.453,-0.45425 -0.7345,-1.081 -0.7345,-1.770875 l 0,-7.351 c 0,-0.689875 0.2815,-1.316625 0.7345,-1.770875 0.4535,-0.45425 1.0793,-0.736 1.7679,-0.736 z m 8.517,0.902125 -8.517,0 c -0.4397,0 -0.84,0.18075 -1.1307,0.472 -0.2909,0.290875 -0.4712,0.692 -0.4712,1.13275 l 0,7.351 c 0,0.44075 0.1803,0.841875 0.4712,1.133125 0.2907,0.290875 0.691,0.471625 1.1307,0.471625 l 8.517,0 c 0.4398,0 0.8405,-0.18075 1.131,-0.471625 0.2906,-0.29125 0.471,-0.692375 0.471,-1.133125 l 0,-7.351 c 0,-0.44075 -0.1804,-0.841875 -0.471,-1.13275 -0.2905,-0.29125 -0.6912,-0.472 -1.131,-0.472 z m -2.4108,1.5725 1.8538,1.856375 -1.4849,0 0,5.559125 -0.7372,0 0,-5.559125 -1.4795,0 1.8478,-1.856375 z m -3.696,7.4155 -1.8533,-1.856375 1.4848,0 0,-5.559125 0.7372,0 0,5.559125 1.4795,0 -1.8482,1.856375 z"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path5918" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 1235.6185,71.233025 -2.1326,0 0,-10.682 2.1326,0 0,10.682 z m -4.2654,0 -2.1325,0 0,-10.682 2.1325,0 0,10.682 z"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path5920" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 1105.9383,58.55865 0,14.666375 -16.9411,0 0,-14.666375 16.9411,0 z m -0.7673,0.4875 -15.4066,0 0,13.692125 15.4066,0 0,-13.692125 z m -10.8342,7.186625 0,-5.57725 6.2756,0 0,5.57725 1.0414,0 c 0.4963,0 0.7954,0.05025 0.8942,0.1495 0.099,0.09887 0.1463,0.39825 0.1463,0.897875 l 0,2.800625 c 0,0.4755 -0.055,0.769875 -0.1658,0.880875 -0.1107,0.11125 -0.4025,0.166875 -0.8797,0.166875 l -8.3625,0 c -0.4772,0 -0.7689,-0.05562 -0.8796,-0.166875 -0.1108,-0.111 -0.1659,-0.405375 -0.1659,-0.880875 l 0,-2.800625 c 0,-0.499625 0.05,-0.799 0.1492,-0.897875 0.099,-0.09925 0.3974,-0.1495 0.8985,-0.1495 l 1.0483,0 z m 0.3474,0 5.5813,0 0,-5.229625 -5.5813,0 0,5.229625 z m -1.3979,4.548125 8.3625,0 c 0.3063,0 0.4992,-0.0415 0.5786,-0.120875 0.079,-0.07963 0.1203,-0.27275 0.1203,-0.58175 l 0,-2.795375 c 0,-0.33125 -0.034,-0.5315 -0.1036,-0.599125 -0.068,-0.06975 -0.2652,-0.103875 -0.5953,-0.103875 l -8.3625,0 c -0.3299,0 -0.5277,0.03413 -0.5952,0.103875 -0.07,0.06763 -0.1037,0.267875 -0.1037,0.599125 l 0,2.795375 c 0,0.309 0.041,0.502125 0.1203,0.58175 0.08,0.07937 0.2724,0.120875 0.5786,0.120875 z m 2.2798,-8.387 0,-0.347625 3.8172,0 0,0.347625 -3.8172,0 z m 0,1.390375 0,-0.34725 3.8172,0 0,0.34725 -3.8172,0 z m -0.014,1.40525 0,-0.3475 3.8315,0 0,0.3475 -3.8315,0 z m -1.7353,3.633375 0,-0.284875 c 0,-0.21725 0.034,-0.3575 0.098,-0.424875 0.065,-0.06525 0.2076,-0.09888 0.4248,-0.09888 l 6.2703,0 c 0.2168,0 0.3593,0.03363 0.424,0.09888 0.066,0.06737 0.099,0.207625 0.099,0.424875 l 0,0.284875 c 0,0.35 -0.1736,0.524 -0.523,0.524 l -6.2703,0 c -0.3495,0 -0.5231,-0.174 -0.5231,-0.524"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path5922" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer6"
-     inkscape:label="Mods - Classic"
-     style="display:none">
     <text
-       id="text24254"
-       x="186.06792"
-       y="70.300545"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="186.06792 193.69875"
-         y="70.300545"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="909.6203"
+       y="439.50146"
+       id="text27972"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan24256">F1</tspan>
-    </text>
-    <text
-       id="text24258"
-       x="253.60735"
-       y="70.300545"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="253.60735 261.23816"
-         y="70.300545"
-         sodipodi:role="line"
-         id="tspan24260">F2</tspan>
-    </text>
-    <text
-       id="text24262"
-       x="321.14142"
-       y="70.300545"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="321.14142 328.77225"
-         y="70.300545"
-         sodipodi:role="line"
-         id="tspan24264">F3</tspan>
-    </text>
-    <text
-       id="text24266"
-       x="388.67697"
-       y="70.262962"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="388.67697 396.3078"
-         y="70.262962"
-         sodipodi:role="line"
-         id="tspan24268">F4</tspan>
-    </text>
-    <text
-       id="text24270"
-       x="489.70862"
-       y="70.262962"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="489.70862 497.33945"
-         y="70.262962"
-         sodipodi:role="line"
-         id="tspan24272">F5</tspan>
-    </text>
-    <text
-       id="text24274"
-       x="557.24408"
-       y="70.300545"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="557.24408 564.87488"
-         y="70.300545"
-         sodipodi:role="line"
-         id="tspan24276">F6</tspan>
-    </text>
-    <text
-       id="text24278"
-       x="624.77783"
-       y="70.262962"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="624.77783 632.40869"
-         y="70.262962"
-         sodipodi:role="line"
-         id="tspan24280">F7</tspan>
-    </text>
-    <text
-       id="text24282"
-       x="692.31378"
-       y="70.300545"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="692.31378 699.94464"
-         y="70.300545"
-         sodipodi:role="line"
-         id="tspan24284">F8</tspan>
-    </text>
-    <text
-       id="text24286"
-       x="793.34607"
-       y="70.300545"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="793.34607 800.97687"
-         y="70.300545"
-         sodipodi:role="line"
-         id="tspan24288">F9</tspan>
-    </text>
-    <text
-       id="text24290"
-       x="860.87811"
-       y="70.300545"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="860.87811 868.50897 875.45288"
-         y="70.300545"
-         sodipodi:role="line"
-         id="tspan24292">F10</tspan>
-    </text>
-    <text
-       id="text24294"
-       x="928.41577"
-       y="70.300545"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="928.41577 936.04663 942.06366"
-         y="70.300545"
-         sodipodi:role="line"
-         id="tspan24296">F11</tspan>
-    </text>
-    <text
-       id="text24298"
-       x="995.94769"
-       y="70.300545"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="995.94769 1003.5786 1010.5225"
-         y="70.300545"
-         sodipodi:role="line"
-         id="tspan24300">F12</tspan>
-    </text>
-    <text
-       id="text24302"
-       x="1082.7084"
-       y="70.281685"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1082.7084 1091.0385 1095.1975 1098.6694 1106.9996"
-         y="70.281685"
-         sodipodi:role="line"
-         id="tspan24304">PrtSc</tspan>
-    </text>
-    <text
-       id="text24306"
-       x="1149.7095"
-       y="70.281685"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1149.7095 1158.0396 1164.2842 1168.4431 1175.387"
-         y="70.281685"
-         sodipodi:role="line"
-         id="tspan24308">ScrLk</tspan>
-    </text>
-    <text
-       id="text24310"
-       x="1215.5455"
-       y="70.212997"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1215.5455 1223.8759 1230.8197 1237.7635 1244.0081"
-         y="70.212997"
-         sodipodi:role="line"
-         id="tspan24312">Pause</tspan>
-    </text>
-    <text
-       id="text24314"
-       x="1081.4243"
-       y="168.45395"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1081.4243 1084.8962 1091.8403 1098.0848 1105.0287 1109.1875"
-         y="168.45395"
-         sodipodi:role="line"
-         id="tspan24316">Insert</tspan>
-    </text>
-    <text
-       id="text24318"
-       x="1149.0338"
-       y="168.45395"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1149.0338 1158.0509 1164.9949 1175.3983"
-         y="168.45395"
-         sodipodi:role="line"
-         id="tspan24320">Home</tspan>
-    </text>
-    <text
-       id="text24322"
-       x="1216.6886"
-       y="161.47156"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1216.6886 1225.0189 1231.9628 1238.9067"
-         y="161.47156"
-         sodipodi:role="line"
-         id="tspan24324">Page</tspan>
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1216.6886 1225.7058"
-         y="175.42323"
-         sodipodi:role="line"
-         id="tspan24326">Up</tspan>
-    </text>
-    <text
-       id="text24328"
-       x="1370.8026"
-       y="170.32108"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:bold;font-size:14.9868927px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1370.8026"
-         y="170.32108"
-         id="tspan24330">/</tspan>
-    </text>
-    <text
-       id="text24332"
-       x="1437.9491"
-       y="170.32108"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.9868927px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1437.9491"
-         y="170.32108"
-         id="tspan24334">*</tspan>
-    </text>
-    <text
-       id="text24336"
-       x="1505.6394"
-       y="170.86336"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.9868927px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1505.6394"
-         y="170.86336"
-         id="tspan24338">-</tspan>
-    </text>
-    <text
-       id="text24340"
-       x="1302.3555"
-       y="161.47794"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1302.3555 1311.3727 1318.3165 1328.7201"
-         y="161.47794"
-         sodipodi:role="line"
-         id="tspan24342">Num</tspan>
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1302.3555 1309.2996 1316.2434 1322.4879"
-         y="175.4296"
-         sodipodi:role="line"
-         id="tspan24344">Lock</tspan>
-    </text>
-    <text
-       id="text24346"
-       x="50.496494"
-       y="70.262962"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="50.496494 58.826706 65.071243"
-         y="70.262962"
-         sodipodi:role="line"
-         id="tspan24348">Esc</tspan>
-    </text>
-    <text
-       id="text24350"
-       x="51.457775"
-       y="438.28671"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="51.457775 60.474892 63.946854 68.105713"
-         y="438.28671"
-         sodipodi:role="line"
-         id="tspan24352">Ctrl</tspan>
-    </text>
-    <text
-       id="text24354"
-       x="980.16235"
-       y="438.28671"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="980.16235 989.17938 992.65143 996.81024"
-         y="438.28671"
-         sodipodi:role="line"
-         id="tspan24356">Ctrl</tspan>
-    </text>
-    <text
-       id="text24358"
-       x="1080.1277"
-       y="235.89496"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1080.1277 1089.1447 1096.0886 1098.8612 1105.8052 1109.2771"
-         y="235.89496"
-         sodipodi:role="line"
-         id="tspan24360">Delete</tspan>
-    </text>
-    <text
-       id="text24362"
-       x="1149.1351"
-       y="235.89496"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1149.1351 1157.4655 1164.4093"
-         y="235.89496"
-         sodipodi:role="line"
-         id="tspan24364">End</tspan>
-    </text>
-    <text
-       id="text24366"
-       x="1216.6886"
-       y="228.91895"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1216.6886 1225.0189 1231.9628 1238.9067"
-         y="228.91895"
-         sodipodi:role="line"
-         id="tspan24368">Page</tspan>
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1216.6886 1225.7058 1232.6497 1241.6667"
-         y="242.87061"
-         sodipodi:role="line"
-         id="tspan24370">Down</tspan>
-    </text>
-    <text
-       id="text24372"
-       x="1505.0328"
-       y="270.49582"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.9868927px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1505.0328"
-         y="270.49582"
-         id="tspan24374">+</tspan>
-    </text>
-    <text
-       id="text24376"
-       x="1504.8856"
-       y="404.49777"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="1504.8856 1513.2158 1520.1598 1523.6317 1530.5756"
-         y="404.49777"
-         sodipodi:role="line"
-         id="tspan24378">Enter</tspan>
-    </text>
-    <text
-       id="text24380"
-       x="221.03098"
-       y="438.24277"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="221.03098 229.36119 232.13376"
-         y="438.24277"
-         sodipodi:role="line"
-         id="tspan24382">Alt</tspan>
-    </text>
-    <text
-       id="text24384"
-       x="727.55621"
-       y="438.24277"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="727.55621 735.88647 738.659"
-         y="438.24277"
-         sodipodi:role="line"
-         id="tspan24386">Alt</tspan>
-    </text>
-    <path
-       inkscape:connector-curvature="0"
-       d="m 1081.64,434.19515 4.0655,-4.07275 0,3.26275 12.1737,0 0,1.62 -12.1737,0 0,3.26225 -4.0655,-4.07225 z"
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path24388" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 1153.1821,358.56078 4.0654,4.07262 -3.2569,0 0,12.195 -1.6171,0 0,-12.195 -3.2567,0 4.0653,-4.07262 z"
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path24390" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 1153.1838,442.32878 -4.0652,-4.07263 3.2566,0 0,-12.195 1.6171,0 0,12.195 3.257,0 -4.0655,4.07263 z"
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path24392" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 1232.8252,434.19515 -4.0653,-4.07275 0,3.26275 -12.1737,0 0,1.62 12.1737,0 0,3.26225 4.0653,-4.07225 z"
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path24394" />
-    <text
-       id="text24396"
-       x="68.214996"
-       y="302.23706"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="68.214996 77.232109 84.176033 91.119965 97.364502 100.83646 107.78039 114.72432 120.96886"
-         y="302.23706"
-         sodipodi:role="line"
-         id="tspan24398">Caps Lock</tspan>
-    </text>
-    <text
-       id="text24400"
-       x="934.92798"
-       y="302.2338"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="934.92798 943.25818 950.20215 953.67407 960.61804"
-         y="302.2338"
-         sodipodi:role="line"
-         id="tspan24402">Enter</tspan>
-    </text>
-    <path
-       inkscape:connector-curvature="0"
-       d="m 912.55824,301.5829 4.06564,-4.06125 0,3.25125 10.55653,0 0,-7.31262 1.61717,0 0,8.93262 -12.1737,0 0,3.26238 -4.06564,-4.07238 z"
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path24404" />
-    <text
-       id="text24406"
-       x="68.540337"
-       y="370.4353"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="68.540337 76.870544 83.814476 86.587059 90.059021"
-         y="370.4353"
-         sodipodi:role="line"
-         id="tspan24408">Shift</tspan>
-    </text>
-    <path
-       inkscape:connector-curvature="0"
-       d="m 61.635422,374.82878 -6.491016,0 0,-9.315 -3.706139,0 6.95146,-6.95263 6.951835,6.95263 -3.70614,0 0,9.315 z m -3.245695,-14.72988 -4.334789,4.33488 2.167581,0 0,9.315 4.33479,0 0,-9.315 2.167457,0 -4.335039,-4.33488 z"
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path24410" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 55.121821,301.90615 0,-3.89237 -3.683554,0 6.936611,-6.95263 6.944098,6.95263 -3.683554,0 0,3.89237 -6.513601,0 z m 3.253057,-9.326 -4.34602,4.35363 2.171076,0 0,3.89237 4.357375,0 0,-3.89237 2.167457,0 -4.349888,-4.35363 z m -3.253057,14.74863 0,-3.78 6.513601,0 0,3.78 -6.513601,0 z m 1.078113,-1.08 4.357375,0 0,-1.62 -4.357375,0 0,1.62 z"
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path24412" />
-    <text
-       id="text24414"
-       x="950.58801"
-       y="168.45421"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="950.58801 958.91827 965.86218 972.10669 978.35126 984.59576 991.53973 998.48364 1004.7283"
-         y="168.45421"
-         sodipodi:role="line"
-         id="tspan24416">Backspace</tspan>
-    </text>
-    <path
-       inkscape:connector-curvature="0"
-       d="m 929.8456,164.19553 4.06551,-4.07274 0,3.26274 12.17372,0 0,1.62 -12.17372,0 0,3.26225 -4.06551,-4.07225 z"
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path24418" />
-    <text
-       id="text24420"
-       x="51.196129"
-       y="235.89496"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="51.196129 57.440044 64.383972"
-         y="235.89496"
-         sodipodi:role="line"
-         id="tspan24422">Tab</tspan>
-    </text>
-    <path
-       inkscape:connector-curvature="0"
-       d="m 87.613712,238.0214 -1.257799,0 0,-6.31737 1.257799,0 0,6.31737 z m -2.102071,-3.16737 -3.156227,3.16737 0,-2.53737 -7.371725,0 0,-1.26001 7.371725,0 0,-2.51999 3.156227,3.15 z m -10.527952,-3.16738 0,-6.31775 1.257799,0 0,6.31775 -1.257799,0 z m 2.102196,-3.15 3.155728,-3.16775 0,2.53775 7.372099,0 0,1.26 -7.372099,0 0,2.53738 -3.155728,-3.16738 z"
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path24424" />
-    <text
-       id="text24426"
-       x="895.84869"
-       y="370.4353"
-       style="font-size:14.9868927px;display:inline"
-       transform="scale(0.99912618,1.0008746)">
-      <tspan
-         style="font-variant:normal;font-weight:normal;font-size:12.48907757px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="895.84869 904.17883 911.1228 913.89539 917.36731"
-         y="370.4353"
-         sodipodi:role="line"
-         id="tspan24428">Shift</tspan>
-    </text>
-    <path
-       inkscape:connector-curvature="0"
-       d="m 888.22082,374.82878 -6.49101,0 0,-9.315 -3.70615,0 6.95147,-6.95263 6.95183,6.95263 -3.70614,0 0,9.315 z m -3.24568,-14.72988 -4.33481,4.33488 2.16759,0 0,9.315 4.33479,0 0,-9.315 2.16745,0 -4.33503,-4.33488 z"
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path24430" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 896.47364,434.50653 c 0.90192,-0.36988 8.83678,-0.32625 10.04642,-0.11438 l 0.53481,5.26888 c 0.144,0.70475 0.47716,0.22075 0.2105,1.47962 l -10.78612,-0.0817 -0.006,-6.55237 z m 14.52658,2.794 c -0.24121,0.14562 -0.33605,0.13562 -0.62366,0.30825 -0.0113,1.10262 1.16335,1.82975 1.50224,2.84837 -0.2493,0.59787 -0.0325,0.15562 -0.5826,0.68287 -0.851,-0.77349 -1.23023,-1.88537 -1.89056,-2.88675 -0.91503,0.0825 -0.61294,0.58888 -1.65961,0.67576 -0.19166,-1.64101 -0.58921,-3.73288 -0.47005,-5.33451 0.72898,0.11725 4.14225,2.93313 4.21687,3.05438 -0.10394,0.38437 0.358,0.13712 -0.49263,0.65162 z m -7.26916,-4.36013 c -1.40355,-0.0247 -3.97679,0.12513 -5.04255,-0.119 l 0.0131,-0.6485 c 1.19554,-0.30075 4.93961,-0.12288 6.41777,-0.12862 -0.004,1.12575 0.0696,0.922 -1.38832,0.89612 z m -7.03282,-5.48537 10.67607,0.0556 -0.0397,3.17513 -10.6838,-0.0545 0.0474,-3.17625 z m 14.4597,10.55337 c 0.77077,-0.58537 1.45445,-0.51587 1.3993,-1.53212 -1.45196,-0.97013 -2.68293,-1.99913 -4.07225,-3.03938 l -0.0882,-7.33862 -12.81532,-0.0155 0.0534,16.22475 12.80747,-0.0397 0.0919,-2.88526 c 1.06115,-0.20262 1.0156,0.71651 2.37135,2.666 0.43687,-0.13212 1.23833,-0.71574 1.68219,-1.024 0.0839,-1.02437 -0.78875,-2.226 -1.43,-3.01612 z m -12.48703,-1.75813 c 0.73147,0.15475 5.75842,0.32526 6.47954,-0.12162 l -0.009,-0.44888 c -0.85888,-0.48975 -5.29437,-0.36562 -6.45284,-0.0933 l -0.018,0.66375 z m 10e-4,-6.83899 c 0.72611,0.158 5.75456,0.32462 6.47467,-0.11513 l -0.004,-0.45462 c -0.70214,-0.44288 -5.74257,-0.29163 -6.45732,-0.1035 l -0.0135,0.67325 z m 0.19166,9.90425 c 0.34241,0.7105 0.1037,0.5 1.26667,0.48262 1.07562,-0.0156 4.28836,0.22 5.01983,-0.253 l -0.0201,-0.44825 c -0.44186,-0.25187 -4.646,-0.36888 -5.59297,-0.22537 -1.02359,0.15525 -0.23872,-0.0272 -0.67345,0.444"
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="path24432" />
+         id="tspan27974"
+         x="909.6203"
+         y="439.50146">Fn</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7454,47 +6774,30 @@
      id="layer2"
      inkscape:label="Custom Function Keys"
      style="display:inline">
-    <path
-       inkscape:connector-curvature="0"
-       d="m 59.261543,51.874207 c 0,2.05507 0.6067,3.39468 3.2248,3.39468 0.1682,0.6292 0.1715,0.2194 0.3395,0.8486 -0.647,0.15079 -0.6747,0.16952 -1.5274,0.16952 -0.784,1.48175 -1.1489,3.59568 -1.8671,5.09187 -1.0857,-0.25268 -2.0377,0 -3.2248,0 l 0.1696,2.20651 4.7523,0 c 0.3833,-0.57193 1.6784,-3.71854 1.6974,-4.58254 l 0.6935,0.84581 c 0.084,0.14416 0.1296,0.22122 0.2076,0.3917 l 0.8722,1.43798 c 0.01,0.0145 0.017,0.0592 0.025,0.0731 0.01,0.0137 0.028,0.0537 0.037,0.0671 l 0.6176,0.85512 c 0.016,0.0294 0.046,0.0737 0.06,0.10135 0.013,0.0249 0.04,0.0701 0.051,0.0934 l 1.849,2.92368 c -0.6434,0.73985 -1.3954,2.00316 -1.9697,2.95214 l -1.8671,2.88504 c -0.482,0.78642 -0.8985,1.55238 -1.498,2.24162 -0.1972,0.22667 -1.2013,2.13641 -1.8675,2.88483 -0.2792,0.31368 -0.1614,0.25514 -0.2656,0.74756 0.7157,0.0157 0.6087,0.13196 1.2127,0.16952 l 1.6494,0 0.023,0 c 0.2706,-1.01351 1.1892,-1.94494 1.7644,-2.81804 l 0.7624,-1.12461 c 0.5894,-1.18775 2.2222,-2.99313 2.6815,-3.98599 0.3549,-0.7679 0.9951,-1.40191 1.4082,-2.08782 0.3387,-0.56102 -0.023,-0.28458 0.5118,-0.67629 0,1.35824 -0.2386,5.30753 0.081,6.58625 0.023,0.0911 0.039,0.11259 0.089,0.20302 3.8804,0 7.1747,0.16953 11.0322,0.16953 l 0,-1.54896 c -0.068,-1.24511 -0.5956,-0.99478 -3.9072,-0.99361 -0.9562,3.2e-4 -1.0739,-0.1768 -2.0298,-0.17626 -0.7931,0 -1.5865,0.003 -2.3797,0.003 l 0,-6.10999 c 0,-1.01662 -1.5466,-2.67913 -2.0569,-3.69393 l -0.4165,-0.78513 c -0.022,-0.0291 -0.053,-0.0695 -0.075,-0.0986 l -1.2438,-1.91583 c -0.2376,-0.51061 0.1601,0.24669 -0.077,-0.22967 l -0.4713,-0.78149 c -0.01,-0.0127 -0.032,-0.0501 -0.042,-0.0625 -0.011,-0.0146 -0.045,-0.0488 -0.058,-0.064 -0.015,-0.0179 -0.059,-0.0498 -0.075,-0.0688 -0.2322,-0.26702 -0.063,0.005 -0.2345,-0.27334 l -0.6818,-1.36188 4.0713,-0.20719 c 0.2934,1.15671 1.7548,2.68758 2.3733,3.77665 0.8107,1.42738 1.4956,0.67115 2.5511,0.1645 0,-0.33039 -0.01,-0.55278 -0.1465,-0.85159 l -3.3199,-5.01631 c -0.019,-0.0324 -0.045,-0.0746 -0.062,-0.10767 -0.043,-0.0795 -0.1604,-0.38111 -0.205,-0.47422 -2.1998,0 -4.5421,0.33948 -6.7892,0.33948 -0.3408,0.82494 0.1756,-0.071 -0.1283,0.57065 -0.3787,0.79968 -0.2583,-0.33456 -0.3808,0.78726 -0.2676,-0.19563 -0.7727,-0.73846 -0.6244,-1.15157 0.1002,-0.27912 -0.098,-0.0792 0.2849,-0.20634 0,-1.55089 0.098,-2.90506 -1.2605,-3.6614 -2.1413,-1.19224 -4.3407,0.5394 -4.3407,2.13395"
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       id="path20648-5" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="371.91766"
-       y="-97.386482"
-       id="text5085"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5087"
-         x="371.91766"
-         y="-97.386482"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="254.47205"
+       x="321.97125"
        y="75.613518"
        id="text5085-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5087-5"
-         x="254.47205"
+         x="321.97125"
          y="75.613518"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="716.80487"
-       y="-1.5032972"
+       x="390.45258"
+       y="75.613518"
        id="text5085-94"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5087-4"
-         x="716.80487"
-         y="-1.5032972"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
+         x="390.45258"
+         y="75.613518"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -7510,18 +6813,18 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="794.77277"
-       y="75.605835"
+       x="929.7262"
+       y="75.605843"
        id="text5085-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5087-8"
-         x="794.77277"
-         y="75.605835"
+         x="929.7262"
+         y="75.605843"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="482.32352"
        y="-168.38565"
        id="text5085-5"
@@ -7530,54 +6833,54 @@
          id="tspan5087-6"
          x="482.32352"
          y="-168.38565"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr;text-anchor:start;"></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="390.49759"
-       y="76.59565"
+       x="627.75995"
+       y="76.595657"
        id="text5085-45"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5087-7"
-         x="390.49759"
-         y="76.59565"
+         x="627.75995"
+         y="76.595657"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="935.61902"
+       x="1156.0264"
        y="76.595657"
        id="text5085-49"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5087-0"
-         x="935.61902"
+         x="1156.0264"
          y="76.595657"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="655.33978"
-       y="-92.386482"
+       x="624.22711"
+       y="-74.001709"
        id="text5085-66"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5087-9"
-         x="655.33978"
-         y="-92.386482"
+         x="624.22711"
+         y="-74.001709"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="626.83087"
-       y="74.631371"
+       x="694.37506"
+       y="74.631363"
        id="text5085-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5087-79"
-         x="626.83087"
-         y="74.631371"
+         x="694.37506"
+         y="74.631363"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
     <text
        xml:space="preserve"
@@ -7594,27 +6897,27 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="190.99142"
+       x="258.4006"
        y="74.631371"
        id="text5085-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5087-03"
-         x="190.99142"
+         x="258.4006"
          y="74.631371"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'FontAwesome, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
-       x="251.04352"
-       y="-74.869942"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="397.07385"
+       y="-119.86026"
        id="text5085-9-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5087-5-8"
-         x="251.04352"
-         y="-74.869942"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';font-size:27.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"></tspan></text>
+         x="397.07385"
+         y="-119.86026"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -7629,51 +6932,27 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'FontAwesome, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
-       x="511.69733"
-       y="-67.600716"
-       id="text5085-9-2"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5087-5-2"
-         x="511.69733"
-         y="-67.600716"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';font-size:27.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"></tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="694.82111"
+       x="795.7099"
        y="74.631371"
        id="text5085-9-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5087-5-86"
-         x="694.82111"
+         x="795.7099"
          y="74.631371"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'FontAwesome, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
-       x="753.65887"
-       y="-68.639168"
-       id="text5085-9-43"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5087-5-4"
-         x="753.65887"
-         y="-68.639168"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';font-size:27.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"></tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="339.89981"
-       y="-160.38649"
+       x="190.99142"
+       y="75.613518"
        id="text5085-9-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5087-5-0"
-         x="339.89981"
-         y="-160.38649"
+         x="190.99142"
+         y="75.613518"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
     <text
        xml:space="preserve"
@@ -7689,76 +6968,64 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'FontAwesome, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
-       x="1114.1995"
-       y="-64.023689"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="470.28619"
+       y="-64.797562"
        id="text5085-9-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5087-5-21"
-         x="1114.1995"
-         y="-64.023689"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';font-size:27.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"></tspan></text>
+         x="470.28619"
+         y="-64.797562"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'FontAwesome, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
-       x="1197.9099"
-       y="-58.1493"
-       id="text5085-9-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1085.6708"
+       y="75.613518"
+       id="text5085-6-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan5087-5-43"
-         x="1197.9099"
-         y="-58.1493"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';font-size:27.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"></tspan></text>
+         id="tspan5087-54-6"
+         x="1085.6708"
+         y="75.613518"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'FontAwesome, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
-       x="831.8717"
-       y="-50.429512"
-       id="text5085-9-32"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="236.23215"
+       y="-121.15363"
+       id="text5085-9-1-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan5087-5-1"
-         x="831.8717"
-         y="-50.429512"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';font-size:27.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"></tspan></text>
+         id="tspan5087-5-8-2"
+         x="236.23215"
+         y="-121.15363"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'FontAwesome, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
-       x="572.42761"
-       y="-56.64698"
-       id="text5085-9-77"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="165.23215"
+       y="-126.15363"
+       id="text5085-9-1-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan5087-5-7"
-         x="572.42761"
-         y="-56.64698"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';font-size:27.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"></tspan></text>
+         id="tspan5087-5-8-6"
+         x="165.23215"
+         y="-126.15363"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'FontAwesome, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
-       x="1263.7614"
-       y="-55.303963"
-       id="text5085-9-99"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="245.23215"
+       y="-178.15364"
+       id="text5085-9-1-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan5087-5-84"
-         x="1263.7614"
-         y="-55.303963"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';font-size:27.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'FontAwesome, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
-       x="436.62659"
-       y="-69.429512"
-       id="text5085-9-91"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5087-5-77"
-         x="436.62659"
-         y="-69.429512"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';font-size:27.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"></tspan></text>
+         id="tspan5087-5-8-7"
+         x="245.23215"
+         y="-178.15364"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:'FontAwesome, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
